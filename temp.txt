@@ -1,0 +1,118 @@
+﻿期刊论文（69篇,36EI,2scie）
+1)	王曦，等．“广义参数不确定性系统输出反馈控制器设计”，西北工业大学学报，1999（2）；(EI)
+2)	王曦，等．“航空发动机结构参数和非结构参数不确定性系统鲁棒H输出反馈控制”，航空动力学报，1999（3）；(EI)
+3)	王曦，等．“频域不确定性系统混合加权灵敏度函数频域整形”，航空学报，1999（4）；(EI)
+4)	王曦，等．“涡喷发动机控制参数化方程的解”，推进技术，1999（3）；(EI) 
+5)	王曦，等．“航空发动机H∞状态反馈控制的鲁棒稳定界” 航空动力学报2001,Vol. 16, No. 4，(EI)  
+6)	王曦，等．“航空发动机多变量鲁棒数字控制器的设计”，航空动力学报，2001（3）；(EI)
+7)	王曦，等．“不确定系统鲁棒H∞/ H2混合控制在航空发动机中的应用” 航空动力学报2002, Vol. 17, No. 2，(EI)
+8)	王曦，等． “涡喷发动机伺服跟踪控制”，航空发动机,2002（2）
+9)	王曦，等．“矢量推力飞控不确定性系统中鲁棒控制器的设计”，航空发动机,2002(4) 
+10)	王曦，等．“弹用涡喷发动机鲁棒性能μ综合控制”，推进技术,2003, Vol.24,No.3，(EI)
+11)	王曦，等． “航空发动机鲁棒H∞/PI状态反馈控制”，推进技术,2003, Vol.24,No.4，(EI)
+12)	王曦，等．“涡喷发动机积分型H∞鲁棒伺服控制”，航空发动机,2003 Vol. 29, No. 2 
+13)	王曦，覃道亮．“航空发动机H∞/ PI输出反馈控制 ──非严格正则LMI方法”，航空动力学报2004,Vol. 19, No.2 (EI)
+14)	 王曦，等．“一种基于LMI的航空发动机输出反馈PI控制”，推进技术2004, ol.25,No.6，EI检索 
+15)	王曦，等．“涡喷发动机电子控制器研究”，航空发动机,2004，Vol.30, No. 3 
+16)	王曦，等．“H∞控制在飞行/推进综合控制系统中的应用”，航空动力学报2004, Vol. 19, No. 5，(EI)
+17)	王曦，等．“航空发动机在MATLAB与C＋＋接口支持下的建模方法”，航空发动机2004，Vol.30, No. 4， 
+18)	 王曦，等．“航空发动机用基于LMI 控制受约束的PI控制器设计”，航空发动机2004，Vol.30, No. 4， 
+19)	郑铁军，王曦，等．“建立航空发动机状态空间模型的修正方法”，推进技术2005, Vol.26,No.1，(EI)
+20)	覃道亮，王曦，郑铁军．“基于LMI涡扇发动机混合加权灵敏度H∞动态输出反馈控制”，航空动力学报2005, Vol. 20, No. 2 (EI)
+21)	王曦，等．“鲁棒控制用于涡喷发动机控制器设计”，航空动力学报2005, Vol. 20, No. 4，(EI)
+22)	郑铁军，王曦，等．“带执行机构的航空发动机控制系统设计仿真”，推进技术2005, Vol.26,No.4 ，(EI)
+23)	郑铁军，王曦，等．“一种变输入参数结构的多控制器协调工作设计”，推进技术2006, Vol.27,No.3，(EI)
+24)	郑铁军，王曦，等．“实现复杂控制计划的控制通道增益匹配方法”，推进技术2006, Vol.27,No.4，(EI)
+25)	郑铁军，王曦，等．“航空发动机控制逻辑设计”，推进技术2007, Vol.28,No.3，(EI)
+26)	王曦，等．“基于Simulink的模块化航空发动机稳态数学模型“，航空发动机，2007，增刊
+27)	徐敏，王曦，等．现代航空发动机液压机械控制器仿真研究[J]．航空动力学报，2009，11，24(12)：2808--2813．(EI)：20100212625153．
+28)	姜彩虹，孙志岩，王曦, 航空发动机预测健康管理系统设计的关键技术, 航空动力学报， 2009
+29)	薛敏东，王曦，徐敏, 基于Simulink的航空发动机P2压力测量装置的设计计算, 航空发动机,2009
+30)	姚华廷，王曦, 航空发动机数控系统仿真平台设计, 航空动力学报， 2010(EI)
+31)	何皑，覃道亮，孔祥兴，王曦. 基于UIO的航空发动机执行机构故障诊断. 推进技术.2012(EI)
+32)	王磊, 王曦, 何皑, 程茵. 基于LMI的涡扇发动机抗积分饱和PI控制，推进技术，第31卷，第2期, 2010年4月, 210–215. (EI)
+33)	曾德堂, 王曦，覃道亮，徐敏, 燃油计量装置回油型面特性分析, 航空发动机,2010
+34)	覃道亮，何皑，孔祥兴，王曦。基于UIO的航空发动机控制系统传感器故障诊断，航空动力学报，26(6): 1396--1404, 2011。(EI)
+35)	孔祥兴, 王曦,航空发动机双重传感器故障诊断逻辑研究, 航空动力学报, 2012(EI)
+36)	姚华廷，徐敏，王曦, 航空发动机转速摆动问题研究, 燃气涡轮试验与研究，2012
+37)	Xiangxing Kong, Xi Wang, An Extrapolation Approach for Aeroengine’s Transient Control Law Design, Chinese Journal of Aeronautics, （SCIE）,2013
+38)	王曦, 1种按控制计划要求设计凸轮型面的方法, 航空发动机,2013
+39)	王斌，王曦, 石玉麟，王华威. 一种分段的航空发动机实时线性模型, 航空动力学报, 29(3): 696-701, 2014. (EI)
+40)	赵琳，王曦，宋志平.大涵道比涡扇发动机涡轮监视温度容错解析. 航空动力学报, 29(11): 2780-2784, 2014. (EI)
+41)	孔祥兴，王曦, 张绍基. 民用涡扇发动机起动过程改进的分段组合控制计划研究与试验, 航空动力学报, 29(12): 2924-2929, 2014. (EI)
+42)	王华威，王 曦，李志鹏，党伟，李洪胜. 定压活门稳定性定量分析, 航空动力学报, 30(3): 754-761, 2015. (EI)
+43)	杨超，王曦，时瑞军，周剑波，高世煌. 用于涡轴发动机传感器故障诊断的未知输入观测器干扰矩阵估算, 航空动力学报, 31(4): 955-964, 2016. (EI)
+44)	李志鹏,王曦,王华威,党伟,李洪胜. 基于差分进化算法的涡喷发动机增推研究,推进技术，(EI)36(11):1715-1720,2015。
+45)	杨峰，王曦，程涛，刘雄. 某型压差活门的动态特性分析, 航空发动机,2015,41(3):44-50。
+46)	杨超，王曦. 涡轴发动机双回路结构PI控制器设计, 航空发动机, 2014,40（S1）：51-56, 
+47)	党伟,王华威,王曦，杨舒柏,张耿. 一种航空发动机广义模型的建立方法, 航空发动机, 航空发动机,2015,41(4):40-46。
+48)	王曦,党伟,  李志鹏,胡忠志,殷锴,张荣. 1种N-dot 过渡态PI 控制律的设计方法. 航空发动机,2015,41(6):1-5。
+49)	杨超, 王曦, 时瑞军, 周剑波，高世煌，覃道亮. 用于涡轴发动机传感器故障诊断的未知输入观测器干扰阵估算[J]. 航空动力学报, 2016, 31(4): 955-964(EI)
+50)	杨超，王曦，时瑞军，周剑波，高世煌. 涡轴发动机双回路PI控制器多发功率匹配, 航空发动机,2016,42(1):16-20。
+51)	殷锴，魏芳，张荣，黄浏，李志鹏，王曦.考虑限制保护的发动机起动控制技术 .航空发动机,2016,42(2):34-37。
+52)	Shubo Yang,Xi Wang,Yifu Long,Zhipeng Li. A partition method to improve piecewise linear model with full envelope covered[J]. 航空动力学报, 2016, 31(12) (EI)
+53)	朱美印，张松，但志宏，裴希同，王信，王曦.高空台飞行环境模拟腔μ综合控制设计[J]. 航空动力学报, 2017, 32(12) (EI)
+54)	陈怀荣，王曦. 一种基于螺旋桨部件特性的螺旋桨建模方法[J]. 航空动力学报, 2017, 32(10) (EI)
+55)	刘梦妮，王曦，杨超.模型基涡轴发动机传感器故障诊断研究[J].燃气涡轮试验与研究，2016,29（3）：25-29
+56)	芦海洋，王曦，王华威，王栋，王大迪.矢量喷管作动机构故障模式回中设计[J].燃气涡轮试验与研究，2016,29（3）：43-48
+57)	朱美印，裴希同，张松，但志宏，王信，王曦. 一种轮盘式特种调节阀流量特性的修正算法[J].燃气涡轮试验与研究，2016,29（5）
+58)	裴希同，朱美印，张松，但志宏，王信，王曦. 一种特种阀流量特性经验公式的迭代算法[J].燃气涡轮试验与研究，2016,29（5）
+59)	杨超，王曦，时瑞军, 周剑波，高世煌.涡轮发动机双回路PI控制器多发功率匹配[J].航空发动机，2016,42（1）：16-20
+60)	李洪胜 王曦，王华威，党伟，张耿.压差控制器的稳定性分析和设计参数的研究[J].航空发动机，2016,42（3）
+61)	王曦，李志鹏.涡扇发动机极值限制保护闭环控制设计[J].航空发动机，2016,42（5）：1-7
+62)	陈怀荣 王曦.涡桨发动机控制技术在国外的发展状况[J].航空发动机，2016,42（6）
+63)	芦海洋，王曦，基于卡尔曼滤波器的主燃油计量装置故障诊断[J].航空发动机，2017,43（2）
+64)	缪柯强、王曦，Method for designing constant thrust power schedule，航空动力学报，2017，（录用）(EI)
+65)	杨舒柏、王曦，Adaptive sliding mode control for limit protection of aircraft engines，Chinese Journal of Aeronautics（SCIE）
+66)	朱美印，张松，但志宏，裴希同，王信，王曦. 一种大口径蝶阀流量特性的坐标定位回归算法[J].燃气涡轮试验与研究，2017,30（4）
+67)	张松、朱美印、但志宏、裴希同、王信、王曦，飞行环境模拟腔积分型μ综合控制，推进技术，（录用）(EI)
+68)	缪柯强、王曦，微型发动机温度限制保护闭环控制设计方法，航空发动机，（录用）
+69)	龙一夫, 王曦,一种未知输入观测器的推广设计方法，航空发动机，（录用）
+期刊论文（70篇,36EI,2scie）  112+78EI+2SCIE
+会议论文（42篇EI）     
+Xi Wang, Daoliang Tan.“Turbofan Engine Robust H∞ Dynamical Output Feedback Control Design Based On LMI Method”，ASME Turbo Expo 2005，GT2005-68124 
+2)	Xi Wang, Yongxia Sun, Tiejun Zheng, Daoliang Tan. Static Output Feedback-based PI Control for Aeroengines Using Linear Matrix Inequality[A]. 44th AIAA/ASME/SAE/ASEE Joint Propulsion Conference & Exhibit[C]. San Diego, California, 2008, AIAA-2008-4581. EI: 20103813246966
+3)	Lei Wang, Xi Wang, Minling Zhu. The IRCBus Communication Protocol Construction Design and Realization for Distributed Control System. 28th AIAA International Communication Conference. Anaheim, California, Aug. 30-2, 2010. AIAA-2010-8848.
+4)	曾德堂,王曦,Design and Analysis of Damping Hole for a Fuel Metering Valve, 2010 International Conference on Mechanical and Electrical Technology
+5)	曾德堂,王曦, Design and Analyze Orifice Geometry for a Fuel Metering Valve, The 2010 International Conference on Computer Application and System Modeling
+6)	孔祥兴,王曦,覃道亮,何皑, A Comparison between Two Combustor Modeling Approaches, 2010 International Conference on Computer Application and System Modeling
+7)	孔祥兴,王曦,覃道亮,何皑, An Aeroengine State Variable Model Based on Gain Scheduling Technique, 2010 International Conference on Computer Application and System Modeling, Proceedings
+8)	朱敏玲,王曦,王磊, A Smart Temperature Sensor for Storage Battery V-T Control in Satellite Power Supply System, 28th AIAA International Communication Conference,2010
+9)	王磊,王曦, 朱敏玲, The IRCBus Communication Protocol Construction Design and Realization for Distributed Control System, 28th AIAA International Communication Conference,2010
+10)	徐敏,王曦, An in-depth modeling and analysis of pressure-compensated flow control valve, 2011 Internet Conference on Electric Information and Control Engineering
+11)	Xiangxing Kong, Xi Wang, Daoliang Tan, Ai He, A Non-Iterative Aeroengine Model Based on Volume Effect. AIAA Modeling and Simulation Technologies Conference. August, 08-11, 2011, Portland, Oregon. AIAA 2011-6623.
+12)	Ai He, Daoliang Tan, Xi Wang. An LMI-Based Anti-Windup Design for Acceleration and Deceleration Control of Jet Engines with H2/H1 Optimization. Proceedings of the 47th AIAA/ASME/SAE/ASEE Joint Propulsion Conference, July 31–August 3, 2011, San Diego, California, AIAA-2011-5856-490.
+13)	Ai He, Daoliang Tan, Xi Wang, Lei Wang. Evaluation of the LMI-based multivariable PID controller design for turbo aeroengines, Proceedings of ASME Turbo Expo 2010, Glasgow, Scotland, GT2010-23146.
+14)	Daoliang Tan, Ai He, Xi Wang, Yun Liu. Multivariable Aeroengine PID Control with Amplitude Saturation: an LMI Solution, Proceedings of ASME Turbo Expo 2010, Glasgow, Scotland, GT2010-23147.
+15)	Daoliang Tan, Ai He, Xiangxin Kong, Xi Wang. Integration of Unknown Input Observers and Classification for Turbofan Engine Diagnosis, Proceedings of ASME Turbo Expo 2011, Vancouver, Canada, GT2011-46429.
+16)	刘月,覃道亮,何皑,王曦, UIO-based Diagnosis of Aircraft Engine Control Systems Using Scilab, Proceedings of OSSC2011
+17)	何皑,覃道亮,王曦, A Fault-tolerant Control Approach for Aircraft Engine Using a Bank of UIO Filters, Proceedings of the 2010 International Conference on Electronics, Communications and Control
+18)	何皑,覃道亮,王曦,孔祥兴, LMI-based Aircraft Engine Sensor Fault Diagnosis Using a Bank of Robust H1 Filters, Proceedings of the 2010 International Conference on Computer Application and System Modeling
+19)	何皑,覃道亮,王曦, Integral Windup Protection PI Control for Turbofan Engine based on   Optimization: An LMI-Based approach, The 3rd International Symposium on Jet Propulsion and Power Engineering,2010
+20)	覃道亮,何皑,王曦, Yun Liu, Multivariable Aeroengine PID Control with Amplitude Saturation: an LMI Solution, Proceedings of ASME Turbo Expo 2010
+21)	王磊，王曦，孙永侠, Intelligent acquisition module for differential transformer position sensor, 2010 International Conference on Intelligent System Design and Engineering Application
+22)	Yongxia Sun,Xi Wang,Lei Wang, The Design of Digital Control System In The Hardware-in-Loop Simulation Of Aeroengines, International Conference on Computer Application and System Modeling (ICCASM), 2010
+23)	Jiang Caihong, Wang Xi, He Ai, A FDIA Approach for Aircraft Based on The Kalman Filter, Proceedings of International Conference on Information Theory and Information Security(ICITIS)[C]. Beijing ICITIS 2010, 2010:396
+24)	Daoliang Tan, Ai He, Xiangxin Kong, Xi Wang, Integration of Unknown Input Observers and Classification for Turbofan Engine Diagnosis, Proceedings of ASME Turbo Expo, GT2011-46429, June 6–10, 2011, Vancouver, Canada
+25)	朱敏玲，王曦，徐敏, Analysis for System-on chip Application on Full Authority Digital Engine Control System, International Conference on Electric Information and Control Engineering, ICEICE 2011
+26)	Xiangxing Kong, Xi Wang, A Process Identification based Method for Establishing an Aeroengine’s State Variable Model, 2012 2nd International Conference on Aerospace Engineering and Information Technology[C]. 7-8 May 2012, Nanchang, China. (ISTP)
+27)	Xiangxing Kong, Xi Wang, A Fitting Method for Establishing an Aeroengine’s State Variable Model Based on Process Identification [A], 2012 3rd International Conference on Information Technology for Manufacturing Systems[C]. 8-9 September 2012, Qingdao, China
+28)	Xiangxing Kong, Xi Wang, A Non-Iterative Model of CF6 Turbofan Engine[A], The 2012 International Workshop on Computer Engineering[C]. 16-18 October 2012, Zhoushan, China
+29)	Huating Yao, Xi Wang, Xiangxing Kong, A Real-Time Transient Model of CF6 Turbofan Engine[J],2012
+30)	Yao Hua ting, Fu Xiaolei, Wang Xi, Modeling and Design Analysis of Temperature Amplifier for HMC based on AMESim, Proceedings of 4th International Symposium on Jet Propulsion and Power Engineering, September 10-12, 2012, Xi’an, China
+31)	Huawei Wang, Xi Wang, Wei Dang, Huating Yao, Bin Wang. GENERIC DESIGN METHODOLOGY FOR ELECTRO-HYDRAULIC SERVO ACTUATOR IN AERO-ENGINE MAIN FUEL CONTROL SYSTEM, Proceedings of ASME Turbo Expo 2014. June 16 – 20, 2014, Düsseldorf, Germany. GT2014-27337
+32)	Chao Yang, Xi Wang, Mengni Liu, Ruijun Shi, Shihuang Gao. Design of PI Controller with Three-loop Structure for Power Balance of Turboshaft, ASME Turbo Expo 2014, Dsseldorf, Germany, GT2014-27338.
+33)	Daoliang Tan, Ron J. Patton, Xi Wang, A relaxed solution to unknown input observers for state and fault estimation, 9th IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes, Paris, 2015.
+34)	Wei Dang, Xi Wang, et al. Design of Transient State Control Mode Based on Rotor Acceleration. Proceedings of 2015 12th International Bhurban Conference on Applied Sciences & Technology.EI: 20151500726281
+35)	Zhipeng Li, Xi Wang, et al. Research on Control Law for A Sub-idle Engine  Operation. Proceedings of 2015 12th International Bhurban Conference on Applied Sciences & Technology. EI: 20151500726280
+36)	Yulin Shi, Xi Wang, et al. Constructive Non-iterative Explicit Models of Turbofan Engines with Introduced Poles. Proceedings of 2015 12th International Bhurban Conference on Applied Sciences & Technology.EI: 20151500726282
+37)	Shubo Yang, Xi Wang. A COMPARATIVE STUDY ON N-DOT ACCELERATION TECHNIQUE. Proceedings of ASME Turbo Expo 2016, June 13 – 17, 2016, Seoul, South Korea.GT2016-57341
+38)	Yang Chao, Xiangxing Kong,Xi Wang . MODEL--BASED FAULT DIAGNOSIS FOR PERFORMANCE DEGRADATIONS OF TURBOFAN GAS PATH VIA OPTIMAL ROBUST RESIDUALS. Proceedings of ASME Turbo Expo 2016, June 13 – 17, 2016, Seoul, South Korea. GT2016-56300
+39)	Shubo Yang, Xi Wang.SLIDING CONTROLLER DESIGN FOR AERO-ENGINES WITH THE RATELIMITATION OF ACTUATORS. Proceedings of ASME Turbo Expo 2017. June 26-30, 2017, Charlotte, NC, USA. GT2017-63571
+40)	Meiyin Zhu, Xi Wang.AN INTEGRAL TYPE m SYNTHESIS METHOD FOR TEMPERATURE AND PRESSURE CONTROL OF FLIGHT ENVIRONMENT SIMULATION VOLUME. Proceedings of ASME Turbo Expo 2017. June 26-30, 2017, Charlotte, NC, USA. GT2017-63529
+41)	杨蓓、王曦，A Neural Network Adaptive Controller Considering expert system for aero-engine，53rd AIAA（EI），2017
+42)	田震，覃道亮，王曦，A Comparative Study of LPV Modeling for Turbofan Engines，53rd AIAA（EI），2017
+
+5 授权发明专利
+1)	王曦，杨杰，田凤欣，陈华荣，王海龙，孙永侠，王磊，涡轮喷气发动机的燃油调节器，2007.01.10，中国，ZL200410030754.8
+2)	王曦，王磊，杨杰, 多功能模拟传感器, 2006.08.23，中国，ZL200410009182.5
